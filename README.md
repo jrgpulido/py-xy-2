@@ -1,6 +1,8 @@
 # py-xy-2
 
-zeeAlso
+Numerical computing with python 3.x
+
+# zeeAlso
 
 learnpython.org
 
