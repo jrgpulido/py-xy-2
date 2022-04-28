@@ -4,5 +4,5 @@ Numerical computing with python 3.x
 
 # zeeAlso
 
-learnpython.org
+https://learnpython.org
 
