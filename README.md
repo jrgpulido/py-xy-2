@@ -1,4 +1,4 @@
-# py-xy-2
+# Numerical
 
 Numerical computing with python 3.x
 
