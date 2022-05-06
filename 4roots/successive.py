@@ -1,3 +1,10 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Thu May  5 20:52:00 2022
+
+@author: jrgpulido
+"""
 # 
 # to complete
 #
@@ -17,14 +24,14 @@ def ck(a,b):
 a=.5
 b=1
 print(ck(a,b))
+#vs
+print('%.6f '%ck(a,b))
 
 #
 # change interval
 #
 
 #
+# then calculate next
 # c_2
 #
-a=.5
-b=1
-print(ck(a,b))
