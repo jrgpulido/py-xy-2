@@ -1,4 +1,4 @@
 #
-# refer to PPT file
+# please refer to PPT file
 # for exercise
 #

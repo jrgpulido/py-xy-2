@@ -1,3 +1,4 @@
 #
-# 2do
+# please refer to PPT file
+# for exercise
 #
