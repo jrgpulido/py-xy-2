@@ -180,15 +180,3 @@ print()
 # 
 
 corr["sepal length"].sort_values(ascending=False)
-
-# 
-# by class
-# 
-
-#import matplotlib.pyplot as plt
-plt.scatter(x=iris['sepal width'], 
-            y=iris["sepal length"],
-            c=iris[iris.columns[4]].astype('category').cat.codes,
-            s=10, 
-            cmap=plt.cm.rainbow)
-plt.show()
