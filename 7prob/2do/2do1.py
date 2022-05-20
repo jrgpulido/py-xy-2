@@ -1,3 +1,3 @@
 #
-# 2do
+# first homework of the day
 #
